@@ -1,1 +1,1 @@
-new-azresourcegroup -name "dfagntrg1" -location "westus"
+new-azresourcegroup -name "buildrg" -location "westus"
